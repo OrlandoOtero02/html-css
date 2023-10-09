@@ -1,0 +1,41 @@
+span {
+    /* display: block; */
+    margin: 20px;
+    padding: 20px;
+}
+div {
+    /* display: inline; */
+    border: 2px solid crimson;
+    margin: 20px;
+    padding: 20px;
+}
+
+/* h1 {
+    color: green;
+    background-color: lightgray;
+    font-size: 20px;
+    text-decoration: underline;
+    font-family: arial;
+    text-align: center;
+}
+p {
+    color: lightblue;
+    text-align: right;
+    line-height: 30px;
+    letter-spacing: 3px;
+    column-count: 3;
+    column-gap: 60px;
+}
+ul {
+    border-width: 4px;
+    border-style: dotted;
+    border-color: purple;
+    border: 4px dotted purple;
+    border-bottom: 4px dotted purple;
+    border-left: 4px dashed rgb(12, 206, 61);
+}
+li {
+    list-style-type: none;
+    text-shadow: 2px 2px lightcoral;
+    text-shadow: 2px 2px #bebdbd;
+} */
