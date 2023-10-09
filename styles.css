@@ -1,14 +1,14 @@
-span {
-    /* display: block; */
+/* span {
+    display: block;
     margin: 20px;
     padding: 20px;
 }
 div {
-    /* display: inline; */
+    display: inline; 
     border: 2px solid crimson;
     margin: 20px;
     padding: 20px;
-}
+} */
 
 /* h1 {
     color: green;
@@ -39,3 +39,17 @@ li {
     text-shadow: 2px 2px lightcoral;
     text-shadow: 2px 2px #bebdbd;
 } */
+div {
+    color: lightcoral;
+    border: 1px solid gray;
+    margin: 40px;
+    font-weight: bold;
+}
+div p{
+    border: inherit;
+    margin: inherit;
+    color: crimson;
+}
+p {
+    color: orange;
+}
